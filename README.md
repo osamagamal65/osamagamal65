@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
+<!-- -->
 <h4 align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning everything<br>🎯 Goals: build the largest smart eco farm<br>🎲 Fun fact: not yet</h4>
 
 ###
